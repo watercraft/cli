@@ -1715,7 +1715,7 @@ func TestParseGenericFromEnvCascade(t *testing.T) {
 }
 
 func TestFlagFromFile(t *testing.T) {
-	temp, err := ioutil.TempFile("", "urfave_cli_test")
+	temp, err := ioutil.TempFile("", "watercraft_cli_test")
 	if err != nil {
 		t.Error(err)
 		return

@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/urfave/cli/v2"
+	"github.com/watercraft/cli/v2"
 
 	"gopkg.in/yaml.v2"
 )

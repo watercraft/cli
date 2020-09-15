@@ -1,10 +1,10 @@
 cli
 ===
 
-[![GoDoc](https://godoc.org/github.com/urfave/cli?status.svg)](https://godoc.org/github.com/urfave/cli)
-[![codebeat](https://codebeat.co/badges/0a8f30aa-f975-404b-b878-5fab3ae1cc5f)](https://codebeat.co/projects/github-com-urfave-cli)
-[![Go Report Card](https://goreportcard.com/badge/urfave/cli)](https://goreportcard.com/report/urfave/cli)
-[![codecov](https://codecov.io/gh/urfave/cli/branch/master/graph/badge.svg)](https://codecov.io/gh/urfave/cli)
+[![GoDoc](https://godoc.org/github.com/watercraft/cli?status.svg)](https://godoc.org/github.com/watercraft/cli)
+[![codebeat](https://codebeat.co/badges/0a8f30aa-f975-404b-b878-5fab3ae1cc5f)](https://codebeat.co/projects/github-com-watercraft-cli)
+[![Go Report Card](https://goreportcard.com/badge/watercraft/cli)](https://goreportcard.com/report/watercraft/cli)
+[![codecov](https://codecov.io/gh/watercraft/cli/branch/master/graph/badge.svg)](https://codecov.io/gh/watercraft/cli)
 
 cli is a simple, fast, and fun package for building command line apps in Go. The
 goal is to enable developers to write fast and distributable command line
@@ -30,13 +30,13 @@ Go Modules are required when using this package. [See the go blog guide on using
 ### Using `v2` releases
 
 ```
-$ GO111MODULE=on go get github.com/urfave/cli/v2
+$ GO111MODULE=on go get github.com/watercraft/cli/v2
 ```
 
 ```go
 ...
 import (
-  "github.com/urfave/cli/v2" // imports as package "cli"
+  "github.com/watercraft/cli/v2" // imports as package "cli"
 )
 ...
 ```
@@ -44,13 +44,13 @@ import (
 ### Using `v1` releases
 
 ```
-$ GO111MODULE=on go get github.com/urfave/cli
+$ GO111MODULE=on go get github.com/watercraft/cli
 ```
 
 ```go
 ...
 import (
-  "github.com/urfave/cli"
+  "github.com/watercraft/cli"
 )
 ...
 ```
@@ -67,4 +67,4 @@ export PATH=$PATH:$GOPATH/bin
 
 cli is tested against multiple versions of Go on Linux, and against the latest
 released version of Go on OS X and Windows. This project uses Github Actions for
-builds. To see our currently supported go versions and platforms, look at the [./.github/workflows/cli.yml](https://github.com/urfave/cli/blob/master/.github/workflows/cli.yml).
+builds. To see our currently supported go versions and platforms, look at the [./.github/workflows/cli.yml](https://github.com/watercraft/cli/blob/master/.github/workflows/cli.yml).

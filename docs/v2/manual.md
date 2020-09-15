@@ -61,7 +61,7 @@ package main
 import (
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -83,7 +83,7 @@ import (
   "log"
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -126,7 +126,7 @@ import (
   "log"
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -191,7 +191,7 @@ import (
   "log"
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -224,7 +224,7 @@ import (
   "log"
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -271,7 +271,7 @@ import (
   "os"
   "fmt"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -307,7 +307,7 @@ func main() {
 }
 ```
 
-See full list of flags at https://pkg.go.dev/github.com/urfave/cli/v2
+See full list of flags at https://pkg.go.dev/github.com/watercraft/cli/v2
 
 #### Placeholder Values
 
@@ -327,7 +327,7 @@ import (
   "log"
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -373,7 +373,7 @@ import (
   "log"
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -419,7 +419,7 @@ import (
   "os"
   "sort"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -487,7 +487,7 @@ import (
   "log"
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -524,7 +524,7 @@ import (
   "log"
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -562,7 +562,7 @@ import (
   "log"
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -633,8 +633,8 @@ import (
   "fmt"
   "os"
 
-  "github.com/urfave/cli/v2"
-  "github.com/urfave/cli/v2/altsrc"
+  "github.com/watercraft/cli/v2"
+  "github.com/watercraft/cli/v2/altsrc"
 )
 
 func main() {
@@ -672,7 +672,7 @@ package main
 import (
   "log"
   "os"
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -728,7 +728,7 @@ import (
   "log"
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -781,7 +781,7 @@ import (
   "log"
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -853,7 +853,7 @@ import (
   "log"
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -907,7 +907,7 @@ import (
   "log"
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -958,7 +958,7 @@ import (
   "log"
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -1018,7 +1018,7 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"github.com/urfave/cli/v2"
+	"github.com/watercraft/cli/v2"
 )
 func main() {
 	app := cli.NewApp()
@@ -1087,7 +1087,7 @@ import (
   "log"
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -1186,7 +1186,7 @@ import (
   "log"
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -1247,7 +1247,7 @@ import (
   "io"
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -1304,7 +1304,7 @@ package main
 import (
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -1339,7 +1339,7 @@ package main
 import (
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -1369,7 +1369,7 @@ import (
   "fmt"
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 var (
@@ -1405,7 +1405,7 @@ import (
   "log"
   "os"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func main() {
@@ -1452,7 +1452,7 @@ import (
   "os"
   "time"
 
-  "github.com/urfave/cli/v2"
+  "github.com/watercraft/cli/v2"
 )
 
 func init() {
