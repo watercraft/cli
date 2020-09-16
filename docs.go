@@ -8,7 +8,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/watercraft/go-md2man"
+	"github.com/watercraft/go-md2man/md2man"
 )
 
 // ToMarkdown creates a markdown string for the `*App`
